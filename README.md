@@ -6,9 +6,6 @@ This is a tiny, simple module for [MagicMirror²](https://magicmirror.builders/)
 
 ## Installation
 
-
-## Installation
-
 Enter your MagicMirror² module folder, e.g.:
 
     cd ~/MagicMirror/modules
